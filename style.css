@@ -220,10 +220,11 @@ img {
     font-weight: bold;
 }
 .image{
-    height: 600px;
-    width: 700px;
+    height: 100px;
+    width: 200px;
     position: absolute;
     margin: 50px auto;
+    transform: translateX(-260px);
 }
 
 

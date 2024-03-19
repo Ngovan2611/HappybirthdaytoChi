@@ -13,10 +13,6 @@ alert(age);
 confirm('Thiệt hả!!!!!');
 
 
-setTimeout(function() { //hàm thời gian
-    prompt(int)
-}, 2000);
-
 console.log(age);
 //
 var myFriend = {
